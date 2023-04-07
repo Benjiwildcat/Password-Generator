@@ -11,9 +11,9 @@ let numbers = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 
 let specialCharacters = ["!", "@", "#", "$", "%", "^", "&", "*", "(", ")", "-", "+"]
 
-let builtArray = [];
 
 function generatePassword() {
+  let builtArray = [];
 
   if (confirm("Lowercase Allowed?")) {
     builtArray = [...builtArray, ...lowerAlphabet]
