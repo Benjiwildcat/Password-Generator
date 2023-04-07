@@ -10,7 +10,7 @@ To access the webpage just click follow this link http://127.0.0.1:5500/index.ht
 
 from there you just click generate password and you'll immediately be prompted with 5 questions, the final being how many characters you want your
 
-password to be. after typing a number in you're given a randomly generated password.
+password to be, after typing a number in you're given a randomly generated password.
 
 ## Examples 
 
