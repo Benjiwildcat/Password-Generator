@@ -14,9 +14,9 @@ password to be. after typing a number in you're given a randomly generated passw
 
 ## Examples 
 
-![Sample photo](Screenshot 2023-04-06 223007.png)      ![sample photo](Screenshot 2023-04-06 223042.png)
+![base page](assets/Screenshot%202023-04-06%20223007.jpg)      ![prompt 1](assets/Screenshot%202023-04-06%20223042.jpg)
 
-![sample photo](Screenshot 2023-04-06 223103.png)       ![sample photo](Screenshot 2023-04-06 223143.png)
+![prompt 2](assets/Screenshot%202023-04-06%20223103.jpg)      ![generated password](assets/Screenshot%202023-04-06%20223143.jpg)
 
 ## Process and thoughts
 
